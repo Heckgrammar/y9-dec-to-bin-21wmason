@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="\\hgs-fs6\users%24\students\21\21wmason\My Documents\c.s work\year 9 gsce work\visual studio 2024\dec to bin program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
